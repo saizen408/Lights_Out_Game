@@ -31,7 +31,6 @@ class Board extends Component {
       }
       board.push(row);
     }
-    console.log(board);
     return board;
   }
 
